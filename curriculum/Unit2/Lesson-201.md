@@ -51,6 +51,7 @@ of this week.
 ### Introduction to Data Types \[10 minutes\]
 
 Begin with a brief lecture about data types.
+Remind students to write down in notebooks **bolded** vocab words.
 
 - To write a more complicated program like a calculator, we need to familiarize ourselves with the
   different types of data that Java can work with.
